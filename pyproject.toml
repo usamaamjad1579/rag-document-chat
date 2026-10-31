@@ -1,0 +1,9 @@
+[project]
+name = "rag-document-chat"
+version = "0.1.0"
+description = "Chat with your PDFs using retrieval-augmented generation, with citations for every answer."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

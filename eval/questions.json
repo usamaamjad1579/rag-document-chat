@@ -1,0 +1,16 @@
+[
+  {"question": "How many days of annual leave do full-time employees get?", "source": "northwind_handbook.md", "expected": "20 days of paid annual leave"},
+  {"question": "Can I carry unused holidays into next year?", "source": "northwind_handbook.md", "expected": "Up to 5 unused days can be carried over"},
+  {"question": "How long is the probation period?", "source": "northwind_handbook.md", "expected": "probation period of three months"},
+  {"question": "How much is the internet allowance for remote workers?", "source": "northwind_handbook.md", "expected": "PKR 6,000"},
+  {"question": "Do interns get to work from home?", "source": "northwind_handbook.md", "expected": "Interns may work remotely one day per week"},
+  {"question": "What is the yearly budget for courses and certifications?", "source": "northwind_handbook.md", "expected": "PKR 120,000"},
+  {"question": "When do I need a doctor's note for being sick?", "source": "northwind_handbook.md", "expected": "medical certificate is required"},
+  {"question": "How long does it take to fully charge the robot?", "source": "rover_x2_manual.md", "expected": "2 hours and 30 minutes"},
+  {"question": "What does a blinking yellow light mean?", "source": "rover_x2_manual.md", "expected": "Blinking yellow: waiting because the path is blocked"},
+  {"question": "How do I restart the robot after pressing the emergency stop?", "source": "rover_x2_manual.md", "expected": "twist the button clockwise"},
+  {"question": "What should I do about error E310?", "source": "rover_x2_manual.md", "expected": "Let the robot cool for 20 minutes"},
+  {"question": "How heavy a shelf can the rover carry?", "source": "rover_x2_manual.md", "expected": "up to 120 kg"},
+  {"question": "How often should the wheels be replaced?", "source": "rover_x2_manual.md", "expected": "every 2,000 operating hours"},
+  {"question": "Is the battery covered by warranty, and for how long?", "source": "rover_x2_manual.md", "expected": "three years or 3,000 charge cycles"}
+]
